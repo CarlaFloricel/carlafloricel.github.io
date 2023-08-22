@@ -1,0 +1,1 @@
+"use strict";var App=App||{};App.start=function(){App.scene=new Scene({container:"scene"});const e=new ParticleSystem;e.initialize("data/058.csv"),App.scene.addObject(e.getParticleSystems()),App.scene.render()};
