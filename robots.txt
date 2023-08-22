@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://carlafloricel.github.io/carlafloricel.github.io# the subpath of your site, e.g. /blog//sitemap.xml
+Sitemap: https://carlafloricel.github.io//sitemap.xml
