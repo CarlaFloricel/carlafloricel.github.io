@@ -2,96 +2,160 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Carla Gabriela Floricel Sosea
     - name: Languages
-      value: English, German
-
+      value: English (fluent), Romanian (native), Spanish (novice)
+    - name: Research Interests
+      value: Visual Analytics, Visual Data Science, Information Visualization, HCI, ML
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Visual Data Science
+      institution: University of Illinois Chicago
+      year: 2019-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+      - Computer Science
+      - Electronic Visualiation Laboratory
+    - title: BS in Information Technology
+      institution: Politehnica University of Bucharest
+      year: 2015-2019
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
+        - Computer Engineering
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: University of Illinois Chicago, Electronic Visualization Laboratory
+      year: 2019 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Chicago, IL
+        - Research on visual data science for multidimensional cohorts, mainly in medical data.
+        - Advisor Dr. Georgeta-Elisabeta Marai.
+    - title: Research Supervisor
+      institution: University of Illinois Chicago, Electronic Visualization Laboratory
+      year: Summer 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Chicago, IL
+        - Co-mentored an under-represented high school student during a research project.
+        - Organzied by University of Illinois Cancer Center - Diversity in Cancer Research (DICR).
+    - title: Research Intern
+      institution: Aicure
+      year: Summer 2022
+      description: 
+      - NYC, NY
+      - Worked on the OpenDBM open-source project.
+      - Created an open-source visual analytics tool for digital biomarkers.
+    - title: Teaching Assistant
+      institution: University of Illinois Chicago
+      year: Fall 2019, 2020, 2022
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+      - Chicago, IL
+      - Introductory programming classes and graduate visualization class.
+      - Office hours, lab presentation and supervision, assignment grading.
+    - title: Junior Full Stack Developer
+      institution: UniCredit Business Integrated Solutions
+      url: https://www.unicreditgroup.eu/en/worldwide/our-worldwide-presence/europe/romania.html
+      year: Apr 2018 - Jan 2019
+      description:
+      - Bucharest, Romania
+      - Developed and tested features for the company's bank client web application.
+- title: Research Interests
+  type: map
+  contents:
+    - name: Visual Analytics
+      value: I am primarily interested in designing, developing, and evaluating visual analytics systems for medical data. I have experience in processing and visualizing large-scale, multivariate cohort data from cancer patient cohorts, digital biomarker cohorts, airplane simulation ensemble data, and vessel cohorts. 
+    - name: InfoVis
+      value: I am interested in designing novel encodings for cohort summarization and temporal trends.
+    - name: ML
+      value: I have experience in using unsupervised modeling for cohort prediction and desription.
+    - name: HCI
+      value: I have extensive experience in working in multidisiplinary environments with domain experts from different research areas, in client interviewing to gather task requirements, and in evaluating any built visualization systems with the clients, mostly using qualitative methods.
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
+    - title: Visual Analytics for Supervised Prediction of Patient Symptoms
+      year: 2023 - Present
+      description:
+        - Visualization system for designed to predict symptoms after the completion of cancer treatment.
+        - Analysis of longitudinal treatment toxicity and model building.
+    - title: Image+Text Search System for Biocuration
+      year: 2023
+      description:
+        - Evaluation and maintenance of search interfaces for mouse gene expressions.
+        - Maintaining an active learning system for searching and labeling documents using figures.
+    - title: Visual Analytics for Human Epilepsy
+      year: 2023 - Present
+      description:
+        - Design and task analysis for a system used for detecting brain seizures.
+    - title: Visual Analytics for Treatment Comparison Based on Longitudinal Symptoms
+      year: 2020 - 2023
+      description:
+        - Visualization system for predicting symptoms after the completion of cancer treatment.
+        - Analysis of longitudinal treatment toxicity using sequential rule mining.
+    - title: HCI Evaluation of Visual Analytics System
+      year: 2023
+      description:
+        - User study for evaluating a visual analytics system for model builders in oncology.
+        - Oualitative and quantitative methods to evaluate user experience, use, non-use, and trust.
+    - title: Visual Analytics Tool for Digital Biomarkers
+      year: 2022
+      description:
+        - Interface for the OpenDBM open source project analyzing both individuals and cohorts.
+        - Visual analysis of digital biomarkers extracted from audio and video sources.
+    - title: Illegal Activities during Global Fishing
+      year: 2021
+      description:
+        - Visual analysis of illegal, unreported, and unregulated (IUU) fishing.
+        - Detection of IUU fishing based on longitudinal vessel activity. 
+    - title: High-performance computing and data-driven modeling of aircraft contrails
+      year: 2021 - 2022
+      description:
+        - Visualizing contrail formation from aircraft simulations.
+        - Visual analysis for I/O simulation parameters and ensemble members.
+    - title: CAVE2 Airport Control Simulator
+      year: 2020
+      description:
+        - Airport control simulator for a large-scale virtual-reality environment CAVE2 at the Electronic Visualization Laboratory.
+    - title: Visualizing Symptom Development for Head and Neck Cancer Patients
+      year: 2019 - 2020
+      description:
+        - Visualization system for head and neck cancer cohort analysis.
+        - Analysis of symptom clustering using association rule mining and symptom development.
+    - title: vINCI - Clinically-Validated Integrated Support for Assistive Care and Lifestyle Improvement, the Human Link
+      year: 2018-2019
+      description:
+        - Bachelor's Thesis
+        - Designed, tested, and developed an interface for improving older adults' QoL using IoT.
+        - Second prize for best research project presentation at a Politehnica University competition.
+- title: Skills
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
+    - title: Programming Languages
+      description: JS, Python
+    - title: Technologies 
+      description: React, d3.js, Observable, Three.js, Pandas, Sklearn, Matplotlib, Seaborn, HTML, CSS, Unity, Git, SQL, MongoDB, Adobe XD, Docker
+    - title: Soft Skills
+      description: Problem-solving, prototyping, client interviewing, development, usability testing, evaluation, teamwork, time management, team lead.
+- title: Talks and Presentations
+  type: time_table
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
+    - title: Opening Access to Visual Exploration of Audiovisual Digital Biomarkers - an OpenDBM Analytics Tool
+      description: Paper presented at IEEE VIS 2022 Visualization in Biomedical AI Workshop
+    - title: OpenDBM Summer Internship
+      description: Virtually presented my experience and results to the company where I interned in the Summer of 2022
+    - title: THALIS - Human-machine Analysis of Longitudinal Symptoms in Cancer Therapy
+      description: Poster presented at the CRA-WP Grad Cohort for Women Workshop in 2022
+    - title: THALIS - Human-machine Analysis of Longitudinal Symptoms in Cancer Therapy
+      description: Paper presented at IEEE VIS 2021 virtually and in person at UIC, EVL satellite event for the conference
+    - title: A personal experience in the doctoral program in the USA
+      description: Presented graduate study opportunities in the USA virtually for Romanian students at Politehnica University of Bucharest in 2021
+    - title: Visual Analysis of Patient Timelines
+      description: Ph.D. Qualifier Exam, 2021
+- title: Volunteering
+  type: map
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - name: Paper Reviewer
+      value: IEEE VIS 2022-2023, EuroVis 2022, CFG 2023
+    - name: Student Volunteer
+      value: 
+      - 2021-2023 IEEE VIS conferences, Electronic Visualization Laboratory

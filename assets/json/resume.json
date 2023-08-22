@@ -1,77 +1,92 @@
-{
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
-    }
-  ],
-  "volunteer": [],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [],
-  "publications": [],
-  "skills": [],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
-  "interests": [],
-  "references": [],
-  "projects": []
-}
+// {
+
+//   "education": [
+//     {
+//       "url": "https://upb.ro/en/",
+//       "area": "Computer Science",
+//       "studyType": "University of Illinois Chicago - Ph.D. in Visual Data Science",
+//       "startDate": "2019-08-15",
+//       "endDate": "",
+//       "score": "",
+//       "courses": [
+//         "Visual Data Science"
+//       ]
+//     },
+//     {
+//       "institution": "Politehnica University of Bucharest",
+//       "url": "https://cs.uic.edu/",
+//       "area": "Computer Engineering",
+//       "studyType": "BS",
+//       "startDate": "2015-10-15",
+//       "endDate": "2019-06-15",
+//       "score": "",
+//       "courses": [
+//         "Information Technology"
+//       ]
+//     }
+//   ],
+//   "work": [
+//     {
+//       "name": "University of Illinois Chicago",
+//       "position": "Research Supervisor",
+//       "url": "",
+//       "startDate": "2023-06-06",
+//       "endDate": "2022-067-25",
+//       "summary": "Co-mentored an under-represented high school student for a cancer-related research project.",
+//       "highlights": [
+//         "Visual Analytics in Oncology"
+//       ]
+//     },
+//     {
+//       "name": "AiCure",
+//       "position": "Research Intern",
+//       "url": "https://aicure.com/opendbm",
+//       "startDate": "2022-08-12",
+//       "endDate": "2022-06-06",
+//       "summary": "Created a visual analytics tool for the company's open-source platform (OpenDBM).",
+//       "highlights": [
+//         "Visual Analytics of Digital Biomarkers"
+//       ]
+//     },
+//     {
+//       "name": "UniCredit Business Integrated Solutions",
+//       "position": "Junior Full Stack Developer",
+//       "url": "https://www.unicreditgroup.eu/en/worldwide/our-worldwide-presence/europe/romania.html",
+//       "startDate": "2018-04-01",
+//       "endDate": "2019-01-15",
+//       "summary": "Developed and tested features for the company's bank client web application.",
+//       "highlights": [
+//         "Frontend Development"
+//       ]
+//     },
+//     {
+//       "name": "University of Illinois Chicago",
+//       "position": "Teaching Asssistant",
+//       "url": "",
+//       "startDate": "2019-08-15",
+//       "endDate": "2022-12-15",
+//       "summary": "Introductory programming classes and graduate visualization class. Office hours, lab presentation and supervision, assignment grading.",
+//       "highlights": [
+//         "Visual Data Science, Python, and C/C++."
+//       ]
+//     },
+//     {
+//       "name": "University of Illinois Chicago",
+//       "position": "Research Asssistant",
+//       "url": "",
+//       "startDate": "2019-08-15",
+//       "endDate": "",
+//       "summary": "Research on visual data science for cohorts with cancer, biomarker, and aircraft simulation data.\nPrimarily building visual analytics tools for medical data. Client interviewing, prototyping, design, development, evaluation.",
+//       "highlights": [
+//         "Visual Analytics for Medical Data, Visual Data Science, HCI, ML."
+//       ]
+//     }
+//   ],
+//   "volunteer": [],
+//   "certificates": [],
+//   "publications": [],
+//   "skills": [],
+//   "interests": [],
+//   "references": [],
+//   "projects": []
+// }
