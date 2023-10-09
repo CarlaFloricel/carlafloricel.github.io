@@ -84,7 +84,7 @@
         - Evaluation and maintenance of search interfaces for mouse gene expressions.
         - Maintaining an active learning system for searching and labeling documents using figures.
     - title: Visual Analytics for Human Epilepsy
-      year: 2023 - Present
+      year: 2023
       description:
         - Design and task analysis for a system used for detecting brain seizures.
     - title: Visual Analytics for Treatment Comparison Based on Longitudinal Symptoms
@@ -159,3 +159,9 @@
     - name: Student Volunteer
       value: 
       - 2021-2023 IEEE VIS conferences (student volunteer captain at VIS 2023), Electronic Visualization Laboratory
+- title: Awards
+  type: map
+  contents:
+    - name: Travel Award
+      value: University of Illinois Cancer Center Award for cancer research conference travel
+    
