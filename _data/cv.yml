@@ -139,7 +139,7 @@
 - title: Talks and Presentations
   type: time_table
   contents:
-      - title: Roses Have Thorns: Understanding the Downside of Oncological Care Delivery Through Visual Analytics and Sequential Rule Mining
+    - title: Roses Have Thorns - Understanding the Downside of Oncological Care Delivery Through Visual Analytics and Sequential Rule Mining
       description: Paper presented at IEEE VIS 2023 
     - title: Opening Access to Visual Exploration of Audiovisual Digital Biomarkers - an OpenDBM Analytics Tool
       description: Paper presented at IEEE VIS 2022 Visualization in Biomedical AI Workshop
