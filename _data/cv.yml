@@ -31,6 +31,14 @@
         - Chicago, IL
         - Research on visual data science for multidimensional cohorts, mainly in medical data.
         - Advisor Dr. Georgeta-Elisabeta Marai.
+
+  - title: PhD Data Visualization Intern
+      institution: Epsilon
+      year: Summer 2024 
+      description:
+        - Chicago, IL
+        - Developed a fully working prototype for the company's digital advertising services and platform (DiME).
+        - Prototyped, designed, and developed a visual component for companies to better understand client behavior.
     - title: Research Supervisor
       institution: University of Illinois Chicago, Electronic Visualization Laboratory
       year: Summer 2023
@@ -122,7 +130,7 @@
         - Visualization system for head and neck cancer cohort analysis.
         - Analysis of symptom clustering using association rule mining and symptom development.
     - title: vINCI - Clinically-Validated Integrated Support for Assistive Care and Lifestyle Improvement, the Human Link
-      year: 2018-2019
+      year: 2018 - 2019
       description:
         - Bachelor's Thesis
         - Designed, tested, and developed an interface for improving older adults' QoL using IoT.
