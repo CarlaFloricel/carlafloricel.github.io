@@ -147,12 +147,14 @@
 - title: Talks and Presentations
   type: time_table
   contents:
+     - title: NLRR Explorer
+      description: Presented my project prototype to the company where I interned in 2024 
     - title: Roses Have Thorns - Understanding the Downside of Oncological Care Delivery Through Visual Analytics and Sequential Rule Mining
       description: Paper presented at IEEE VIS 2023 
     - title: Opening Access to Visual Exploration of Audiovisual Digital Biomarkers - an OpenDBM Analytics Tool
       description: Paper presented at IEEE VIS 2022 Visualization in Biomedical AI Workshop
     - title: OpenDBM Summer Internship
-      description: Virtually presented my experience and results to the company where I interned in the Summer of 2022
+      description: Presented my project prototype to the company where I interned 2022
     - title: THALIS - Human-machine Analysis of Longitudinal Symptoms in Cancer Therapy
       description: Poster presented at the CRA-WP Grad Cohort for Women Workshop in 2022
     - title: THALIS - Human-machine Analysis of Longitudinal Symptoms in Cancer Therapy
